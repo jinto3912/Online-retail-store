@@ -1,0 +1,249 @@
+#a1{
+    margin-left: 120px;
+}
+#a2{
+    margin-left: 10px;
+}
+.carousel2{
+    height: 250px;
+    width: 100%;
+}
+#image7{
+    width: 100%;
+}
+.ha{
+    display: inline;
+}
+#hc{
+    color: red;
+    margin-left: 5px;
+}
+#hb{
+    margin-left: 5px ;
+}
+.login1{
+    width:300px;
+    height: 25px;
+}
+.login2{
+    width: 220px;
+    height: 25px;
+}
+.login3{
+    width: 180px;
+    height: 25px;
+    margin-left: 100px;
+}
+#continue{
+    background-color:rgb(241,200,98);
+    border: none;
+    
+}
+#divlogin{
+    border: 2px solid grey;
+    width: 310px;
+    height:310px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+#pl1{
+    text-align: center;
+}
+#account{
+    margin-left: 485px;
+    width: 380px;
+    height: 30px;
+}
+#al1{
+    text-decoration: none;
+    margin-left: 640px;
+}
+.al2{
+    text-decoration: none;
+    margin-left: 100px;
+}
+#pl2{
+    margin-top: -30px;
+    margin-left: 760px;
+}
+#logo1{
+    margin-left: 700px;
+    margin-top: 30px;
+}
+#divlogo{
+    margin-left: 840px;
+}
+button:active{
+    background-color:lightslategray;
+}
+.i1{
+    width:590px;
+    height:350px;
+}
+#dimage1{
+    margin-left: 47%;
+
+}
+.pc1{
+    text-align: center;
+    color: blue;
+}
+.footer{
+    display: inline;
+}
+#f1{
+    margin-left: 10px;
+}
+#f2{
+    margin-left: 40px;
+}
+#f3{
+    margin-left: 40px;
+}
+#f4{
+    margin-left: 40px;
+}
+#b1{
+    background-color:rgb(235,236,239);
+    border:none;
+    width: 350px;
+    margin-left: 725px;
+    height:30px;
+}
+#s1{
+    margin-left: 800px;
+}
+#s2{
+    margin-left: 695px;
+    border: 2px solid lightgray;
+    width: 320px;
+    height: 470px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.s3{
+    width: 310px;
+}
+.s4{
+    width: 250px;
+}
+#s7{
+    width: 310px;
+    background-color:rgb(241,200,98);
+    border: none;
+    height: 25px;
+}
+
+#home1{
+    text-decoration: none;
+}
+#hf1{
+    color:black;
+}
+.hf2{
+    text-decoration: none;
+}
+.hf3{
+    display: inline;
+}
+#hf4{
+    margin-left: 700px;
+}
+#hf5{
+    margin-left: 90px;
+}
+
+#payd{
+    border: 2px solid lightgrey;
+    width:270px;
+    height:300px;
+    margin:auto;
+    padding: 20;
+}
+.pays{
+    font-size: 12px;
+}
+#addcard{
+    margin-left: 760px;
+  
+}
+#addh{
+    margin-left: 440px;
+}
+#last{
+    margin-left: 650px;
+    margin-top: 300px;
+}
+
+.disc2{
+    text-decoration: none;
+    margin-left: 70px;
+}
+
+#continue1{
+    background-color: green;
+    border: none;
+    
+}
+#pay1{
+    text-decoration: none;
+    color: white;
+}
+.login6{
+    width: 280px;
+    height: 35px;
+    margin-left: 510px;
+
+}
+.login7{
+    width:190px;
+}
+.offer{
+    color: brown;
+    padding-left: 20px;
+}
+.deal1{
+    float: left;
+    width: 30%;
+    padding-left: 200px;
+    margin-top: 10px;
+}
+#bimage{
+    background-image: radial-gradient(blue,white);
+    
+}
+#scard{
+    color:black;
+    margin-left: 20px;
+
+}
+#paynow{
+    background-color:rgb(241,200,98);
+    border: none;
+    width: 120px;
+
+}
+#pine{
+    margin-left: 0.2px;
+}
+#kc{
+    margin-top: -500px;
+}
+#search{
+    margin-left: 800px;
+    margin-top: 5px;
+}
+
+#log{
+    margin-top: 150px;
+}
+
+#addbottom{
+    margin-top: 200px;
+}
+
+
+
+
+
